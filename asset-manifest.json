@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yummy/static/css/main.38bb3cc5.css",
+    "main.js": "/yummy/static/js/main.24377625.js",
+    "static/js/453.b6abc888.chunk.js": "/yummy/static/js/453.b6abc888.chunk.js",
+    "static/media/bg.jpg": "/yummy/static/media/bg.80e2264dc486d45b803e.jpg",
+    "index.html": "/yummy/index.html",
+    "main.38bb3cc5.css.map": "/yummy/static/css/main.38bb3cc5.css.map",
+    "main.24377625.js.map": "/yummy/static/js/main.24377625.js.map",
+    "453.b6abc888.chunk.js.map": "/yummy/static/js/453.b6abc888.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38bb3cc5.css",
+    "static/js/main.24377625.js"
+  ]
+}
