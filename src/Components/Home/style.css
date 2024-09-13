@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+
+#demo h2{
+  
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 12vh;
+
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.btn-book-a-table {
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 12px 36px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: #fff;
+    background: red;
+    text-decoration: none;
+    box-shadow: 0 8px 28px rgba(206, 18, 18, 0.2);
+  }
+
+  .btn-watch-video {
+    font-size: 16px;
+    transition: 0.5s;
+    margin-left: 25px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+  }
+
+  

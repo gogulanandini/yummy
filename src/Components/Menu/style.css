@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+#demo-2 h2{
+  
+   font-family: "Amatic SC", sans-serif;
+   font-weight: 700;
+   font-style: normal;
+   font-size: 6vh;
+
+}
+ul {
+   list-style: none;
+ }
+ 
+ li {
+   display: inline-block;
+   margin-right: 50px;
+   
+   
+ }
+
+
+.section-header{
+   font-size: 15px;
+}
+.section-header-p{
+   font-size: 48px;
+    font-weight: 400;
+    
+}
+.section-header-h4{
+   font-size: 20px;
+    font-weight: 400;
+    border-bottom: 2px solid gray;
+}
+.section-header-heading{
+   font-size: 20px;
+    font-weight: 400;
+    border-bottom: 2px solid red;
+}
+.section-header-span{
+   color: red;
+ 
+}
+.sec-p{
+   color: red;
+   font-size: 50px;
+}
+.sec-h{
+   font-size: 20px;
+}
+.image{
+   width: 50%;
+   height:40vh;
+}
+@media(max-width:768px){
+
+}
+
